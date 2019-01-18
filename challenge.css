@@ -26,6 +26,14 @@ li a {
     text-decoration:none;
 }
 
+@media all and (min-width:600px) {
+
+    .grid-item {
+        display:grid;
+        grid-template-columns:auto auto;
+    }
+}
+
 div.grijsblok {
     background-color:rgb(197,197,197);
     Padding:15px;
@@ -37,7 +45,12 @@ div.laatsteblok {
     padding:15px;
 }
 
-.artikelen{
+.artikelen {
+    background-color:white;
+    padding:10px;
+}
+
+.artikelen2 {
     background-color:white;
     padding:10px;
 }
@@ -72,7 +85,8 @@ a.rood {
 }
 
 footer {
-    height:50px;
+    height:25px;
     background-color:rgb(29,29,29);
     padding:15px;
+    clear:both;
 }
