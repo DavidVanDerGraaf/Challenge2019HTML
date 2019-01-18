@@ -1,4 +1,4 @@
 # Challenge2019HTML
-David van der Graaf
-AO 8A
-Versie 2
+David van der Graaf<br>
+AO 8A<br>
+Versie 3

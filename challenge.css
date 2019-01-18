@@ -1,0 +1,78 @@
+body {
+    font-family:'Roboto', sans serif;
+    margin:0px;
+    padding:0px;
+}
+
+header {
+    background-color:white;
+    text-align:center;
+}
+
+ul {
+    padding:0px;
+    margin:0px;
+}
+
+li {
+    background-color:rgb(29,29,29);
+    padding:10px;
+    padding-left:20px;
+    border-top:1px solid white;
+}
+
+li a {
+    color:white;
+    text-decoration:none;
+}
+
+div.grijsblok {
+    background-color:rgb(197,197,197);
+    Padding:15px;
+    padding-bottom:0px;
+}
+
+div.laatsteblok {
+    background-color:rgb(197,197,197);
+    padding:15px;
+}
+
+.artikelen{
+    background-color:white;
+    padding:10px;
+}
+
+.GrijzeText {
+    color:rgb(170,170,170);
+}
+
+.button {
+    background-color:#ED102A;
+    border:none;
+    color:white;
+    padding:15px 32px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px;
+}
+
+.button:hover {
+    background-color:#D00016;
+}
+
+div.blok {
+    height:1px;
+    background-color:rgb(170,170,170);
+    margin:10px;
+}
+
+a.rood {
+    color:red;
+}
+
+footer {
+    height:50px;
+    background-color:rgb(29,29,29);
+    padding:15px;
+}
